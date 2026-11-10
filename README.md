@@ -10,6 +10,7 @@ Conduzi as finanças e a operação de um café em Porto Alegre e, sem equipe de
 - **Esteira de notícias de mercado com IA.** Acompanha mais de 14 fontes, junta as notícias do mesmo fato, filtra por relevância e entrega boletins em horários fixos. Coberta por 1.391 testes automatizados.
 - **Time de agentes de IA para análise de carteira.** Agentes que analisam ações e posições seguindo regras de risco (limite por ativo e por setor, sem alavancagem), em teste paralelo antes do uso real.
 - **[Value investing quantitativo para ações brasileiras](https://github.com/atitton/Projetos-Integrados-com-Ia).** Coleta preços e fundamentos, calcula fatores de valor (Earnings Yield, Cash Flow Yield, Book to Market), aplica filtros de risco e liquidez e monta a carteira num painel em Streamlit.
+- **[Estudo de viabilidade de um box de Hyrox](https://github.com/atitton/hyrox-dashboard).** Painel interativo com dois cenários de investimento, stress test financeiro (ticket, alunos e custos) e mapa de riscos.
 - **[Extrator de notas fiscais](https://github.com/atitton/extrator_nfe_publico).** Lê NF-e em XML, PDF e foto (com OCR) e transforma os itens comprados numa base de custos por fornecedor.
 
 Os sistemas acima rodam em produção com dados reais, por isso o código fica privado. Versões abertas, com dados de exemplo, estão a caminho.
